@@ -1,6 +1,7 @@
 {
   "name": "luz-planilhas",
   "private": true,
+  "description": "projeto b2s",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
